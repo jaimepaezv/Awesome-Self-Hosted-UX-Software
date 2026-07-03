@@ -99,6 +99,7 @@ This list aims to provide UX designers, researchers, and teams with a collection
     * **License:** Commercial (Self-Hosted Styleguide Available)
     * **Website:** [https://zeroheight.com/](https://zeroheight.com/)
     * **Notes:**  Commercial design system platform with a self-hosted styleguide option. *License is not FOSS, included for self-hosting consideration.* *Verify licensing details.*
+* [Mautic](https://www.mautic.org) - Open-source, self-hostable marketing automation platform for campaigns, segmentation, and customer journeys.
 
 ## UX-Focused Analytics
 
