@@ -80,6 +80,12 @@ This list aims to provide UX designers, researchers, and teams with a collection
     * **Website:** [https://jitsi.org/meet/](https://jitsi.org/meet/)
     * **Source Code:** [GitHub](https://github.com/jitsi/jitsi-meet)
     * **Notes:**  Enables remote usability testing. Requires setup of a Jitsi Meet instance.
+* **Vertov** - Browser-based recorder for capturing a usability session or walking through a prototype. Reviewers can watch a shared recording and comment at the relevant timestamp.
+    * **License:** [AGPLv3](https://www.gnu.org/licenses/agpl-3.0.en.html)
+    * **Website:** [https://vertov.app/](https://vertov.app/)
+    * **Source Code:** [GitHub](https://github.com/ankurmans/vertov-screen-recorder)
+    * **Notes:** The self-hosted edition runs on the operator's Cloudflare account. A managed edition is also available.
+
 
 ## Design Systems & Component Libraries (Self-Hosted Elements)
 
