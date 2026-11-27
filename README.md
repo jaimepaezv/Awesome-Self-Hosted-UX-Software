@@ -56,6 +56,11 @@ This list aims to provide UX designers, researchers, and teams with a collection
     * **Website:** [https://fider.io/](https://fider.io/)
     * **Source Code:** [GitHub](https://github.com/getfider/fider)
     * **Notes:**  Good for gathering user-driven feedback and understanding user priorities for product development and UX improvements.
+* **FeedLog** - Open-source AI customer support platform that helps teams collect feedback from customer conversations and track product improvements.
+    * **License:** MIT
+    * **Website:** https://feedlog.ai/
+    * **Source Code:** https://github.com/linkcraftstudio/feedlog
+    * **Notes:** Self-hostable platform with an AI support widget, shared inbox, customer feedback management, roadmap, and changelog.
 * **OhMyForm** - Open-source form builder. Simple and easy to use for creating quick feedback forms, user feedback submission forms, and embedding forms within prototypes or websites for user input.
     * **License:** [MIT License](https://opensource.org/licenses/MIT)
     * **Website:** [https://ohmyform.com/](https://ohmyform.com/)
